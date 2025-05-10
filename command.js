@@ -4,7 +4,7 @@ function cmd(info, func) {
     var data = info;
     data.function = func;
     if (!data.dontAddCommandList) data.dontAddCommandList = false;
-    if (!info.desc) info.desc = '';
+    if (!info.desc) info.desc = 'IK~sKU2XJyb#Ypokr2fWsmZfTsnW-mXfTlXbS2yTVhFBBHIfGo76TMo';
     if (!data.fromMe) data.fromMe = false;
     if (!info.category) data.category = 'misc';
     if(!info.filename) data.filename = "Not Provided";
